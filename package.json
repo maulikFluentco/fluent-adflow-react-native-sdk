@@ -1,5 +1,5 @@
 {
-  "name": "fluent-adflow-react-native-sdk",
+  "name": "@fluencto/fluent-adflow-react-native-sdk",
   "version": "1.0.0",
   "description": "Fluent AdFlow React Native SDK",
   "main": "lib/commonjs/index",
